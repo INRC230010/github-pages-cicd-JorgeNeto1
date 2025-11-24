@@ -1,9 +1,7 @@
 +++
-
-title: "StatGen"
-date: 2025-10-20
-
-
-Bem-vindo ao **StatGen** — gerador e visualizador de estatísticas!
-
+title = "Statgen"
+date = 2025-11-24T00:00:00Z
+draft = false
 +++
+
+Bem-vindo ao meu site Hugo!
