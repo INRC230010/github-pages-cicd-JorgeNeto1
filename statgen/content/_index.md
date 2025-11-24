@@ -1,5 +1,9 @@
 +++
-date = '2025-11-24T17:13:45-03:00'
-draft = true
-title = ''
+
+title: "StatGen"
+date: 2025-10-20
+
+
+Bem-vindo ao **StatGen** — gerador e visualizador de estatísticas!
+
 +++
